@@ -15,7 +15,7 @@
     <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009142104781" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/profile.php?id=100009142104781" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/rouf_rimon" target="blank"><img align="center"
+    <a href="[https://instagram.com/https://www.instagram.com/rouf_rimon](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Frouf_rimon%3Ffbclid%3DIwAR1kT5X_jLwFe5maTKTA1IGKUJVwWpSCKk95AC98KdZX-ipwNwSeMN5veZY&h=AT0rRc8t7SZSIS2xZRSuD51ZAUifXr4xOoemMrtleLmWijRJC1kcK86d2tA8b_dJXt1uUWCNeRt5DlJxAWEqzeafX6vXwRB8G3sdP_9oQdriB9I5HFsHILqdEmeEKoT68c9y)" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="https://www.instagram.com/rouf_rimon/" height="30" width="40" /></a>
 </p>
