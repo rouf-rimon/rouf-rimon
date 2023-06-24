@@ -8,11 +8,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-rouful-azim-81387526a" target="blank"><img
+    <a href="https://www.linkedin.com/in/mohammad-rouful-azim-81387526a" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/mohammad-rouful-azim-81387526a" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009142104781" target="blank"><img align="center"
+    <a href="https://www.facebook.com/profile.php?id=100009142104781" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/profile.php?id=100009142104781" height="30" width="40" /></a>
     <a href="https://www.instagram.com/rouf_rimon/?fbclid=IwAR3u2eFu5OOxLzaGvt9rW5aaml2Pfbl47uB2WziYnrwU_X6OuR0mjmvjP-g)" target="blank"><img align="center"
