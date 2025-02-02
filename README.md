@@ -1,5 +1,5 @@
 ![logo](https://github.com/rouf-rimon/rouf-rimon/blob/main/99Blue%20%26%20White%20Futuristic%20Technology%20Facebook%20Cover%20(1).png)
-<h1 align="center">👋 Hi...I'm Mohammad Rouful Azim</h1>
+<h1 align="center"> Hi...I'm Mohammad Rouful Azim</h1>
 <h3 align="center">A passionate web designer</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
