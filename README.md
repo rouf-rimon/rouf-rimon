@@ -3,7 +3,7 @@
 # Mohammad Rouful Azim
 ### Electronic Engineering & Embedded Systems Developer
 
-<br>
+<br> Email: rimon.rouful11@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rouful-azim)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rimon.rouful11@gmail.com)
