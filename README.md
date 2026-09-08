@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 Projects
+### I developed:
 
 * **Privacy-First Wi-Fi CSI Fall Monitor**  
   Device-free ambient assisted living telemetry using Wi-Fi subcarrier variance for fall detection.  
