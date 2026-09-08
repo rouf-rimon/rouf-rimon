@@ -6,8 +6,8 @@ Email: rimon.rouful11@gmail.com
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rouful-azim)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:rimon.rouful11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-%0A?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/mohammad-rouful-azim)
+[![Email](https://img.shields.io/badge/-%0A?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:rimon.rouful11@gmail.com)
 
 
 </div>
