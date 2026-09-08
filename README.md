@@ -1,48 +1,50 @@
-![logo](https://github.com/rouf-rimon/rouf-rimon/blob/main/99Blue%20%26%20White%20Futuristic%20Technology%20Facebook%20Cover%20(1).png)
-<h1 align="center"> Hi...I'm Mohammad Rouful Azim</h1>
-<h3 align="center">A passionate web designer</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<div align="center">
 
- 💻 I’m currently learning **JavaScript** <br>
- 📫 How to reach me **rimon.rouful11@gmail.com**
+# Hi, I'm Mohammad Rouful Azim ⚡
+### Electronic Engineering Student & Embedded Systems / Robotics Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/mohammad-rouful-azim-81387526a" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/mohammad-rouful-azim-81387526a" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100009142104781" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/profile.php?id=100009142104781" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/rouf_rimon/?fbclid=IwAR3u2eFu5OOxLzaGvt9rW5aaml2Pfbl47uB2WziYnrwU_X6OuR0mjmvjP-g)" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/rouf_rimon/" height="30" width="40" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-d9a05b?style=flat-square&logo=vercel)](https://github.com/rouf-rimon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-rouful-azim)
+[![Status](https://img.shields.io/badge/Status-Looking%20for%20Werkstudent%20%2F%20Thesis-emerald?style=flat-square)](mailto:rimon.rouful11@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
-            src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-            width="40" height="40" /> </a>  </a> </p>
+</div>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rouf-rimon&show_icons=true&locale=en&layout=compact"
-        alt="rouf-rimon" /></p>
+---
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=rouf-rimon&show_icons=true&locale=en"
-        alt="rouf-rimon" /></p>
+### 👨‍💻 About Me
+* 🎓 **Background:** B.Sc. Electronic Engineering student in Germany (Hochschule Hamm-Lippstadt), with foundational studies in Autonomy Technologies from FAU Erlangen-Nürnberg.
+* 🔬 **Research & Focus:** Building deterministic embedded firmware, high-performance signal processing pipelines, and sensor-fusion architectures for cyber-physical systems.
+* 📍 **Location:** Paderborn, Germany *(EU Work Permit Eligible)*.
+
+---
+
+### 🚀 Featured Engineering Systems
+
+| System & Architecture | Tech Stack | Live Demo |
+| :--- | :--- | :--- |
+| **Privacy-First Wi-Fi CSI Fall Monitor**<br>Ambient assisted living (AAL) telemetry using router subcarrier variance to detect falls and stillness without cameras. | Python, NumPy, Pandas, FastAPI, ESP32, Streamlit | [Live App](https://wifi-fall-monitor-portfolio.streamlit.app) |
+| **Adaptive Kinematic Slip Estimator**<br>Sensor fusion architecture pairing unicycle kinematics with 6-DoF IMU discrepancy tracking and dynamic covariance EKF. | Python, SciPy, EKF, Scikit-Learn, Streamlit | [Live App](https://rouf-adaptive-ekf-slip.streamlit.app) |
+| **Edge-AI Motor Controller**<br>Condition-monitoring system for 3-phase electric drives combining deterministic C99 safety interlocks (&lt;1 ms trip) with spectral FFT and ML diagnostics. | C99, DSP, Random Forest, Functional Safety, Streamlit | [Live App](https://industrial-edge-motor.streamlit.app) |
+
+---
+
+### 🛠️ Tech Stack & Lab Tools
+
+* **Embedded & Low-Level:** C99, C++17, STM32 HAL, ARM Cortex-M, FreeRTOS, MISRA Principles, Register-level GPIO/Timers.
+* **Signal Processing & Robotics:** NumPy, SciPy, FFT, Extended Kalman Filters (EKF), Sensor Fusion, ROS 2 Humble.
+* **Tools & Environment:** Linux (Ubuntu/Kali), Git, Bash, DBeaver, MySQL, Streamlit HMI.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rouf-rimon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=d9a05b&icon_color=d9a05b" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouf-rimon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=d9a05b" height="160" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Engineering systems at the intersection of silicon, software, and physical dynamics."</i>
+</div>
