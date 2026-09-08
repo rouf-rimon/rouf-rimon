@@ -3,26 +3,18 @@
 # Mohammad Rouful Azim
 ### Electronic Engineering & Embedded Systems Developer
 
-[Portfolio](https://rouf-rimon.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammad-rouful-azim) · [Instagram](https://www.instagram.com/rouf_rimon) · [Email](mailto:rimon.rouful11@gmail.com)
+<br>
+
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Website-d9a05b?style=for-the-badge)](https://rouf-rimon.github.io)
+[![LinkedIn Profile](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rouful-azim)
+[![Live Streamlit Apps](https://img.shields.io/badge/⚡_Streamlit-Live_Apps-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://wifi-fall-monitor-portfolio.streamlit.app)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rouf_rimon)
 
 </div>
 
 ---
 
-### 🚀 Projects
-
-* **[Privacy-First Wi-Fi CSI Fall Monitor](https://wifi-fall-monitor-portfolio.streamlit.app)**  
-  Device-free ambient assisted living telemetry using Wi-Fi subcarrier variance for fall detection.
-
-* **[Adaptive Kinematic Slip Estimator](https://rouf-adaptive-ekf-slip.streamlit.app)**  
-  Robust AMR localization pairing unicycle kinematics with dynamic covariance EKF tracking.
-
-* **[Edge-AI Industrial Motor Controller](https://industrial-edge-motor.streamlit.app)**  
-  Industrial 3-phase drive monitor pairing deterministic C99 safety interlocks with spectral FFT.
-
----
-
-### ⚙️ Stack
+### ⚙️ Core Stack
 
 * **Embedded:** C99, C++17, STM32 HAL, ARM Cortex-M
 * **Processing:** NumPy, SciPy, Extended Kalman Filters (EKF), ROS 2
