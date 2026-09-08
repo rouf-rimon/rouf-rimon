@@ -17,13 +17,16 @@
 ###  I developed:
 
 * **Privacy-First Wi-Fi CSI Fall Monitor**  
-  Device-free ambient assisted living telemetry using Wi-Fi subcarrier variance for fall detection.  
+  Device-free ambient assisted living telemetry using Wi-Fi subcarrier variance for fall detection.
+   <br>
   [![Live App](https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=streamlit&logoColor=white)](https://wifi-fall-monitor-portfolio.streamlit.app)
 
 * **Adaptive Kinematic Slip Estimator**  
-  Robust AMR localization pairing unicycle kinematics with dynamic covariance EKF tracking.  
+  Robust AMR localization pairing unicycle kinematics with dynamic covariance EKF tracking.
+   <br>
   [![Live App](https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=streamlit&logoColor=white)](https://rouf-adaptive-ekf-slip.streamlit.app)
 
 * **Edge-AI Industrial Motor Controller**  
-  Industrial 3-phase drive monitor pairing deterministic C99 safety interlocks with spectral FFT.  
+  Industrial 3-phase drive monitor pairing deterministic C99 safety interlocks with spectral FFT.
+  <br>
   [![Live App](https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=streamlit&logoColor=white)](https://industrial-edge-motor.streamlit.app)
